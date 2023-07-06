@@ -3,3 +3,5 @@ Stroke 1
 Stroke 2
 
 Stroke 4 
+
+Stroke 5
